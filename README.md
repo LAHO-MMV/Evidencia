@@ -14,4 +14,8 @@ Descripcion general de lo realizado:
 -cumplimiento del estandar PEP8 con flake8
 -cambio del tablero
 
+Nombre: Yosgart Antonio Castelan Zempoalteca  
+Matrícula: A01713527  
+Usuario de GitHub: antoniotxt  
 
+Se modificó la velocidad de los fantasmas en el archivo pacman.py, ajustando sus vectores de movimiento para incrementar la dificultad del juego.
