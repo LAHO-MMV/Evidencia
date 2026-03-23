@@ -172,3 +172,4 @@ turtle.onkey(lambda: change(0, -5), 'Down')
 world()
 move()
 turtle.done()
+# cambio hecho por Antonio_txt
