@@ -93,7 +93,7 @@ def world():
 
             if tile == 1:
                 path.up()
-                path.goto(x + 10, y + 10)
+                path.goto(x + 10, y + 15) #tamaño modificado
                 path.dot(6, 'green')  # alimento modificado
 
 
